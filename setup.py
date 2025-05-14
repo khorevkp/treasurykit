@@ -4,7 +4,7 @@ this_directory = Path(__file__).parent
 long_description = (this_directory / "README.md").read_text()
 
 setup(
-    name='kktools',
+    name='treasurykit',
     version='1.01',
     author='Konstantin Khorev',
     author_email='khorevkp@gmail.com',
