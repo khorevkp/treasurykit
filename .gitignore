@@ -1,0 +1,71 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+sdist/
+*.egg-info/
+MANIFEST
+
+# Installers
+.install
+
+# PyInstaller
+__pyinstaller_cache/
+_MEI*
+*.pkg
+*.spec
+
+# Jupyter Notebook related
+.ipynb_checkpoints/
+
+# MyPy cache
+.mypy_cache/
+
+# Flake8 cache
+.flake8
+
+# Coverage data
+.coverage
+*.coverage
+coverage.xml
+.cache
+
+# Environments
+.venv/
+venv/
+env/
+envs/
+ENV/
+conda-env/
+environment.yml
+environment.lock.yml
+*/.python-version
+
+# Log files
+*.log
+
+# OS Specific files (macOS)
+.DS_Store
+
+# Temporary files (editors, IDEs, OS)
+*.swp
+*.swo
+*.ptvs*
+.vscode/
+*.idea/
+*.project
+*.workspace
+*.testproj
+tmp/
+temp/
+
+# User-specific files
+.user
